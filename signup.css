@@ -40,6 +40,7 @@ header a{
     flex-direction: column;
     align-items: center;
     background-color: #F7F7F9;
+    padding-bottom: 100px;
 }
 
 .main1 h1{
@@ -87,14 +88,285 @@ header a{
 
 }
 
+.thumbnail-div{
+    display: flex;
+    margin-top: 50px;
+}
+
+.thumbnail1{
+    width: 350px;
+   padding-bottom: 15px;
+    background-color: white;
+    box-shadow: 0px 0px 5px rgb(228, 227, 227);
+    height: 450px;
+}
+
+.thumbnail1 h2{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.thumbnail1 .green-p{
+    color: #29A869;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.thumbnail1 .price-p{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.thumbnail1 .price-p span {
+    font-size: 17px;
+    font-family:  Tahoma, sans-serif;
+    color: black;
+    font-weight: bold;
+    
+   
+}
 
 
+.thumbnail1 .details-p{
+    color: #636E85;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 1.5;
+    margin-bottom: 50px;
+}
+
+.thumbnail1 a{
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    padding: 13px 110px;
+    border: 2px solid black;
+    font-weight: bold;
+    margin-left: 35px;
+    border-radius: 5px;
+    cursor: pointer;
+   
+   
+}
+
+.thumbnail1 .footer-p{
+    font-size: 13px;
+    margin-top: 40px;
+    
+    text-align: center;
+    color: #636E85;
+}
+
+.thumbnail2{
+    width: 350px;
+   padding-bottom: 15px;
+    background-color: white;
+    box-shadow: 0px 0px 5px rgb(228, 227, 227);
+    margin-top: -10px;
+    border-top: 4px solid #29A869;
+    height: 470px;
+}
+
+.thumbnail2 h2{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 15px;
+    text-align: center;
+    
+    
+}
+
+.thumbnail2 .green-p{
+    color: #29A869;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.thumbnail2 h5{
+    margin-top: 20px;
+    font-size: 11px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: #29A869;
+   padding: 8px 5px;
+   margin-left: 100px;
+   width: 150px;
+   border-radius: 50px;
+}
+
+.thumbnail2 .price-p{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.thumbnail2 .price-p span {
+    font-size: 17px;
+    font-family:  Tahoma, sans-serif;
+    color: black;
+    font-weight: bold;
+    
+   
+}
 
 
+.thumbnail2 .details-p{
+    color: #636E85;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 1.5;
+    margin-bottom: 74px;
+}
+
+.thumbnail2 a{
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    padding: 13px 110px;
+    border: 2px solid black;
+    background-color: #272C35;
+    font-weight: bold;
+    margin-left: 35px;
+    border-radius: 5px;
+    cursor: pointer;
+
+   
+}
+
+.thumbnail2 .footer-p{
+    font-size: 13px;
+    margin-top: 40px;
+    display: none;
+    text-align: center;
+    color: #636E85;
+}
 
 
+.thumbnail3{
+    width: 350px;
+   padding-bottom: 15px;
+    background-color: white;
+    box-shadow: 0px 0px 5px rgb(228, 227, 227);
+    height: 450px;
+}
+
+.thumbnail3 h2{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.thumbnail3 .green-p{
+    color: #29A869;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.thumbnail3 .price-p{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.thumbnail3 .price-p span {
+    font-size: 17px;
+    font-family:  Tahoma, sans-serif;
+    color: black;
+    font-weight: bold;
+    
+   
+}
 
 
+.thumbnail3 .details-p{
+    color: #636E85;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+.thumbnail3 .details-pp{
+    color: #636E85;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 1px;
+    padding-top: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+.link1{
+    text-decoration: none;
+    padding-left: 130px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    
+    
+}
+
+
+.thumbnail3 .btn{
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    padding: 13px 110px;
+    border: 2px solid black;
+    font-weight: bold;
+    margin-left: 35px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 0px;
+   
+}
+.thumbnail3 .footer-p{
+    font-size: 13px;
+    margin-top: 30px;
+    
+    text-align: center;
+    color: #636E85;
+}
 
 
 
