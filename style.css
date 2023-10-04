@@ -24,25 +24,17 @@ header p{
 }
 
 
-/* 
+
 .main1 {
-  background-image: url(Images/Awosika-Ayomide.jpg);
+  background-image: url(Images/hulu_background.jpg);
   height: 800px;
   background-size: auto 100%;
   
   background-position: right;
 
-} */
-
-.main1 {
-  background-image: url(Images/Awosika-Ayomide.jpg);
-  height: 800px;
-  /* background-size: auto 100%; */
-  /* background-size: 127% 100%; */
-  background-position: right;
-  background-size: cover;
-
 }
+
+
 
 /* .main1 div{
  
