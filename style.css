@@ -252,8 +252,8 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
 
 .main02 div .thumbnail-1{
 height: 475px;
-  min-width: 310px;
-  max-width: 310px;
+  min-width: 290px;
+  max-width: 290px;
   max-height: 485px;
   justify-content: center;
   align-items: center;
@@ -263,7 +263,7 @@ height: 475px;
 }
 
 .main02 div .thumbnail-1 .thumbnail-1-img-div{
-width: 290px;
+width: 270px;
 height: 455px;
 position: relative;
 
